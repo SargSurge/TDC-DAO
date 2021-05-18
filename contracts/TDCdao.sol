@@ -17,6 +17,8 @@ contract TDCdao {
     }
 
     function proposeMotion(string memory _motionBody) public {
+        motionCount++;
+
         string storage _name = brothers[msg.sender];
         Motion storage newMotion = motions[motionCount];
         
@@ -25,11 +27,12 @@ contract TDCdao {
         newMotion.motionBody = _motionBody;
         newMotion.passed = false;
         newMotion.discussed = false;
-        
-        motionCount++;
-    }
+    
+        }
 
     function discussedMotion(int motionID) public {
+        require (motionID >= 0);
+        require (motionID <= motionCount);
         motions[motionID].discussed = true;
     }
     
