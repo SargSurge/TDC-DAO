@@ -22,10 +22,10 @@ The DAO will allow brothers to propose motions, and vote on motions. In addition
 
 ## Current Project Goals
 
-#### - Create an ERC20 Governance token to be distributed equally to active members (each member should have an equal vote)
+ - Create an ERC20 Governance token to be distributed equally to active members (each member should have an equal vote)
 
-#### - Implement EIP-2767: Contract Ownership Governance as the foundation of the DAO
+ - Implement EIP-2767: Contract Ownership Governance as the foundation of the DAO
 
 ## Future Project Goals
 
-#### - Create a DApp interface for members to submit proposals and vote
+ - Create a DApp interface for members to submit proposals and vote
