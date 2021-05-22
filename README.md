@@ -5,7 +5,7 @@ The goal is not to use the DAO to store all the shenanigans of house meetings an
 Currently, job of storing the fraternity's history of motions and ammendments to the bylaws relies on the elected Recording Secretary. The Rec Sec is tasked of taking notes of everything at house meeting and then taking those notes and uploading them to the Google Drive. That is the state of the position as of Spring 2021.
 Now, I, the current Rec Sec, do not have any idea where notes are from before Fall 2019, or where they are in between me and Fall 2019. The record of motions is one of the important issues this DAO is intended to solve. 
 
-# Use case of the DAO
+## Use case of the DAO
 Brother's will now propose motions on the DAO ahead of house meeting.
 All un-voted on proposals in the DAO are new business at house meeting.
 At the house meeting, the proposal is brought up and discussed.
@@ -20,12 +20,12 @@ If the motion will be revised, the state of the motion is updated to show that i
 
 The DAO will allow brothers to propose motions, and vote on motions. In addition, the history of motions will be stored on the blockchain.
 
-# Current Project Goals
+## Current Project Goals
 
-## Create an ERC20 Governance token to be distributed equally to active members (each member should have an equal vote)
+#### - Create an ERC20 Governance token to be distributed equally to active members (each member should have an equal vote)
 
-## Implement EIP-2767: Contract Ownership Governance as the foundation of the DAO
+#### - Implement EIP-2767: Contract Ownership Governance as the foundation of the DAO
 
-# Future Project Goals
+## Future Project Goals
 
-## Create a DApp interface for members to submit proposals and vote
+#### - Create a DApp interface for members to submit proposals and vote
