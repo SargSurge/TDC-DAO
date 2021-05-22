@@ -19,3 +19,13 @@ If the motion rejected, the state of the motion is updated to show that it was r
 If the motion will be revised, the state of the motion is updated to show that it will be revised, and the brother who submitted can submit a revision which will be brought up as old business at the next house meeting.
 
 The DAO will allow brothers to propose motions, and vote on motions. In addition, the history of motions will be stored on the blockchain.
+
+# Current Project Goals
+
+## Create an ERC20 Governance token to be distributed equally to active members (each member should have an equal vote)
+
+## Implement EIP-2767: Contract Ownership Governance as the foundation of the DAO
+
+# Future Project Goals
+
+## Create a DApp interface for members to submit proposals and vote
